@@ -5,7 +5,7 @@ Este repositório contém um notebook que realiza a coleta de dados de bairros, 
 
 ## Entendendo o problema
 
-Uma extração de dados utilizando a API do SIDRA, do IBGE, retorna cerca de 14.320 bairros e distritos para um total de 5.570 municípios. Ou seja, apenas 2,57 bairros por cidade. Esta abordagem mista, por outro lado, conseguiu extrair um número significativamente maior de bairros, povoados e distritos, proporcionando uma visão mais abrangente das áreas urbanas e rurais no Brasil.
+Uma extração de dados utilizando a API do SIDRA, do IBGE, retorna cerca de 14.320 bairros e distritos para um total de 5.570 municípios. Ou seja, apenas 2,57 bairros por cidade. Esta abordagem mista, por outro lado, conseguiu extrair um número significativamente maior de bairros, povoados e distritos, totalizando 46.350 bairros, povoados e distritos (uma média de 8,32 bairros por municípios, 3,23x mais que o retornado pela API SIDRA), proporcionando uma visão mais abrangente das áreas urbanas e rurais no Brasil.
 
 ## Requisitos
 
